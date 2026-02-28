@@ -1,11 +1,11 @@
-University: [ITMO University](https://itmo.ru/ru/)  
-Faculty: [FICT](https://fict.itmo.ru)  
-Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)  
-Year: 2025/2026  
-Group: 466075  
-Author: Kazar Vladimir Sergeevich  
-Lab: Lab 0  
-Date of create: 27.02.2026  
+University: [ITMO University](https://itmo.ru/ru/)<br>
+Faculty: [FICT](https://fict.itmo.ru)<br>
+Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)<br>
+Year: 2025/2026<br>
+Group: 466075<br>
+Author: Kazar Vladimir Sergeevich<br>
+Lab: Lab 0<br>
+Date of create: 27.02.2026<br>
 Date of finished: 01.03.2026  
 
 # Отчёт по лабораторной работе №0: Создание репозитория и настройка рабочего окружения
